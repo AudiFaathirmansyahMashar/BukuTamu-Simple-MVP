@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BukuTamu</string>
+    <string name="logo">LOGO</string>
+    <string name="tombol_kembali">Tombol Kembali</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="belum_terdaftar">Belum Terdaftar?</string>
+    <string name="main_desc">Daftar terlebih dahulu untuk dapat menggunakan buku tamu dan fiturnya</string>
+    <string name="masuk_large">MASUK</string>
+    <string name="daftar_large">DAFTAR</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="daftar">Daftar</string>
+    <string name="masuk">Masuk</string>
+    <string name="atau">atau</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="result_large">RESULT</string>
+    <string name="input">Input</string>
+    <string name="bersihkan_input">Bersihkan Input</string>
+    <string name="nama">Nama</string>
+</resources>
